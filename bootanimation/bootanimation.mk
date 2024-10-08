@@ -15,4 +15,4 @@
 #
 
 # Boot Animation
-PRODUCT_COPY_FILES += vendor/styx-prebuilts/bootanimation/bootanimation.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation.zip
+PRODUCT_COPY_FILES += vendor/fuse-prebuilts/bootanimation/bootanimation.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation.zip

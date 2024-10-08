@@ -87,4 +87,4 @@ PRODUCT_PACKAGES += \
     RobotoStatic-Regular.ttf
 
 # Register vendor fonts
-PRODUCT_COPY_FILES += vendor/styx-prebuilts/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
+PRODUCT_COPY_FILES += vendor/fuse-prebuilts/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
